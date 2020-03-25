@@ -1,0 +1,144 @@
+{
+	"https://www.airbnb.com/s/Seattle--WA": {
+		"category": "new magic carpet",
+		"keywords": [
+			"houseboats rentals seattle",
+			"houseboats seattle",
+			"vacation rentals in seattle",
+			"romantic seattle houseboats",
+			"vacation home rentals in seattle",
+			"vacation rentals seattle WA"
+		]
+	},
+	"https://www.airbnb.com/s/Austin--TX": {
+		"category": "new magic carpet",
+		"keywords": [
+			"vacation rentals in austin",
+			"austin vacation rentals",
+			"austin vacation home rentals",
+			"vacation rentals austin tx"
+		]
+	},
+	"https://www.airbnb.com/s/New-York--NY": {
+		"category": "new magic carpet",
+		"keywords": [
+			"vacation rentals in new york",
+			"vacation rentals in nyc",
+			"vacation home rentals in new york",
+			"vacation rentals new york ny"
+		]
+	},
+	"https://www.airbnb.com/s/Los-Angeles--CA": {
+		"category": "new magic carpet",
+		"keywords": [
+			"vacation rentals in Los Angeles",
+			"vacation rentals in la",
+			"vacation home rentals in Los Angeles",
+			"vacation rentals los angeles ca"
+		]
+	},
+	"https://www.airbnb.com/s/New-Orleans--LA": {
+		"category": "new magic carpet",
+		"keywords": [
+			"vacation rentals in New Orleans",
+			"vacation home rentals in New Orleans",
+			"vacation rentals new orleans la"
+		]
+	},
+	"https://www.airbnb.com/s/Denver--CO": {
+		"category": "new magic carpet",
+		"keywords": [
+			"vacation rentals in Denver",
+			"vacation home rentals in Denver",
+			"vacation rentals denver co"
+		]
+	},
+	"https://www.airbnb.com/s/Phoenix--AZ": {
+		"category": "new magic carpet",
+		"keywords": [
+			"vacation rentals in Phoenix",
+			"vacation home rentals in Phoenix",
+			"vacation rentals phoenix az"
+		]
+	},
+	"https://www.airbnb.com/s/New-York--NY/things-to-do": {
+		"category": "TTD",
+		"keywords": [
+			"things to do in new york",
+			"things to do in nyc",
+			"fun things to do in new york",
+			"best things to do in new york"
+		]
+	},
+	"https://www.airbnb.com/s/San-Francisco--CA/things-to-do": {
+		"category": "TTD",
+		"keywords": [
+			"things to do in San Francisco",
+			"fun things to do in San Francisco",
+			"best things to do in San Francisco"
+		]
+	},
+	"https://www.airbnb.com/s/San-Diego--CA/things-to-do": {
+		"category": "TTD",
+		"keywords": [
+			"things to do in San Diego",
+			"fun things to do in San Diego",
+			"best things to do in San Diego"
+		]
+	},
+	"https://www.airbnb.com/s/Nashville--TN/things-to-do": {
+		"category": "TTD",
+		"keywords": [
+			"things to do in Nashville",
+			"fun things to do in Nashville",
+			"best things to do in Nashville"
+		]
+	},
+	"https://www.airbnb.com/s/Boston--MA/things-to-do": {
+		"category": "TTD",
+		"keywords": [
+			"things to do in Boston",
+			"fun things to do in Boston",
+			"best things to do in Boston"
+		]
+	},
+	"https://www.airbnb.com/s/Big-Bear-Lake--CA": {
+		"category": "Cabin",
+		"keywords": [
+			"airbnb cabin big bear",
+			"big bear cabin rentals",
+			"cheap big bear cabins",
+			"cabins in big bear cheap",
+			"big bear cheap cabins for rent",
+			"big bear cabin rentals cheap",
+			"big bear lake cheap cabins",
+			"big bear lake cabins",
+			"cheap cabin rental in big bear",
+			"big bear cabin on lake"
+		]
+	},
+	"https://www.airbnb.com/s/Gatlinburg--TN": {
+		"category": "Cabin",
+		"keywords": [
+			"airbnb cabin Gatlinburg",
+			"gatlinburg cabin rentals",
+			"log cabin gatlinburg",
+			"gatlinburg pigeon forge cabins",
+			"cheap cabin rentals gatlinburg"
+		]
+	},
+	"https://www.airbnb.com/s/Pigeon-Forge--TN": {
+		"category": "Cabin",
+		"keywords": [
+			"airbnb cabin pigeon forge",
+			"pigeon forge cabin rentals"
+		]
+	},
+	"https://www.airbnb.com/s/Broken-Bow--OK": {
+		"category": "Cabin",
+		"keywords": [
+			"airbnb cabin Broken Bow",
+			"broken bow cabin rentals"
+		]
+	}
+}
