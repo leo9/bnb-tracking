@@ -19,8 +19,8 @@
 1. set up the cron jobs
    1. 0 15 * * * /usr/local/bin/node /home/ubuntu/airbnb/seo-tracking/rankcollector.js > /home/ubuntu/output/out.txt 2>&1
    1. 10 15 * * * /usr/local/bin/node /home/ubuntu/airbnb/seo-tracking/backup.js > /home/ubuntu/output/backup.txt 2>&1
-1. add the instance id to the file instance.json
-1. add the instance id to lambda function https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/bnb_start_stop?tab=configuration
+1. add the instance id to the file instance.json https://github.com/leo9/bnb-tracking/blob/main/instance.json
+1. add the instance id to lambda function https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/bnb_start_stop?tab=configuration (DO NOT add i-00470bdcc73ce66e6 & i-0a7a433c7b9a51243 since these 2 instances need to be 24/7 running)
 1. stop the instance
 
 
