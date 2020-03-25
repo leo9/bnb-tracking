@@ -1,4 +1,13 @@
 # bnb-tracking
+1. Each instance can handle 10 URLs per day, and each url contains 10 keywords.
+1. Number of instances depending on the URLs we are going to track.
+1. Instances will be started and stopped controlled by lambda functions.
+1. Logs will be accessed through:
+   1. https://backup-gethypeapp-com.s3-ap-northeast-1.amazonaws.com/seo_ranking/20200327/output.txt
+   1. https://backup-gethypeapp-com.s3-ap-northeast-1.amazonaws.com/seo_ranking/20200327/output2.txt
+   1. https://backup-gethypeapp-com.s3-ap-northeast-1.amazonaws.com/seo_ranking/20200327/output3.txt
+   1. ...
+
 
 ## to update the url and keywords, use the file goldenQuery.json
 
