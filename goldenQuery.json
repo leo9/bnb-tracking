@@ -1,144 +1,832 @@
 {
-	"https://www.airbnb.com/s/Seattle--WA": {
-		"category": "new magic carpet",
-		"keywords": [
-			"houseboats rentals seattle",
-			"houseboats seattle",
-			"vacation rentals in seattle",
-			"romantic seattle houseboats",
-			"vacation home rentals in seattle",
-			"vacation rentals seattle WA"
-		]
-	},
-	"https://www.airbnb.com/s/Austin--TX": {
-		"category": "new magic carpet",
-		"keywords": [
-			"vacation rentals in austin",
-			"austin vacation rentals",
-			"austin vacation home rentals",
-			"vacation rentals austin tx"
-		]
-	},
-	"https://www.airbnb.com/s/New-York--NY": {
-		"category": "new magic carpet",
-		"keywords": [
-			"vacation rentals in new york",
-			"vacation rentals in nyc",
-			"vacation home rentals in new york",
-			"vacation rentals new york ny"
-		]
-	},
-	"https://www.airbnb.com/s/Los-Angeles--CA": {
-		"category": "new magic carpet",
-		"keywords": [
-			"vacation rentals in Los Angeles",
-			"vacation rentals in la",
-			"vacation home rentals in Los Angeles",
-			"vacation rentals los angeles ca"
-		]
-	},
-	"https://www.airbnb.com/s/New-Orleans--LA": {
-		"category": "new magic carpet",
-		"keywords": [
-			"vacation rentals in New Orleans",
-			"vacation home rentals in New Orleans",
-			"vacation rentals new orleans la"
-		]
-	},
-	"https://www.airbnb.com/s/Denver--CO": {
-		"category": "new magic carpet",
-		"keywords": [
-			"vacation rentals in Denver",
-			"vacation home rentals in Denver",
-			"vacation rentals denver co"
-		]
-	},
-	"https://www.airbnb.com/s/Phoenix--AZ": {
-		"category": "new magic carpet",
-		"keywords": [
-			"vacation rentals in Phoenix",
-			"vacation home rentals in Phoenix",
-			"vacation rentals phoenix az"
-		]
-	},
-	"https://www.airbnb.com/s/New-York--NY/things-to-do": {
-		"category": "TTD",
-		"keywords": [
-			"things to do in new york",
-			"things to do in nyc",
-			"fun things to do in new york",
-			"best things to do in new york"
-		]
-	},
-	"https://www.airbnb.com/s/San-Francisco--CA/things-to-do": {
-		"category": "TTD",
-		"keywords": [
-			"things to do in San Francisco",
-			"fun things to do in San Francisco",
-			"best things to do in San Francisco"
-		]
-	},
-	"https://www.airbnb.com/s/San-Diego--CA/things-to-do": {
-		"category": "TTD",
-		"keywords": [
-			"things to do in San Diego",
-			"fun things to do in San Diego",
-			"best things to do in San Diego"
-		]
-	},
-	"https://www.airbnb.com/s/Nashville--TN/things-to-do": {
-		"category": "TTD",
-		"keywords": [
-			"things to do in Nashville",
-			"fun things to do in Nashville",
-			"best things to do in Nashville"
-		]
-	},
-	"https://www.airbnb.com/s/Boston--MA/things-to-do": {
-		"category": "TTD",
-		"keywords": [
-			"things to do in Boston",
-			"fun things to do in Boston",
-			"best things to do in Boston"
-		]
-	},
-	"https://www.airbnb.com/s/Big-Bear-Lake--CA": {
-		"category": "Cabin",
-		"keywords": [
-			"airbnb cabin big bear",
-			"big bear cabin rentals",
-			"cheap big bear cabins",
-			"cabins in big bear cheap",
-			"big bear cheap cabins for rent",
-			"big bear cabin rentals cheap",
-			"big bear lake cheap cabins",
-			"big bear lake cabins",
-			"cheap cabin rental in big bear",
-			"big bear cabin on lake"
-		]
-	},
-	"https://www.airbnb.com/s/Gatlinburg--TN": {
-		"category": "Cabin",
-		"keywords": [
-			"airbnb cabin Gatlinburg",
-			"gatlinburg cabin rentals",
-			"log cabin gatlinburg",
-			"gatlinburg pigeon forge cabins",
-			"cheap cabin rentals gatlinburg"
-		]
-	},
-	"https://www.airbnb.com/s/Pigeon-Forge--TN": {
-		"category": "Cabin",
-		"keywords": [
-			"airbnb cabin pigeon forge",
-			"pigeon forge cabin rentals"
-		]
-	},
-	"https://www.airbnb.com/s/Broken-Bow--OK": {
-		"category": "Cabin",
-		"keywords": [
-			"airbnb cabin Broken Bow",
-			"broken bow cabin rentals"
-		]
-	}
-}
+    "https://www.airbnb.com/s/Gatlinburg--TN":{
+       "category":"old magic carpet",
+       "keywords":[
+          "gatlinburg cabins",
+          "gatlinburg cabin rentals",
+          "gatlinburg chalets",
+          "east tennessee cabin rentals",
+          "caba√±as en gatlinburg tennessee",
+          "cabins for rent in gatlinburg and pigeon forge tn",
+          "cabins in tennessee",
+          "tennessee mountain cabin rentals",
+          "airbnb cabin Gatlinburg",
+          "log cabin gatlinburg",
+          "gatlinburg pigeon forge cabins",
+          "cheap cabin rentals gatlinburg"
+       ]
+    },
+    "https://www.airbnb.com/s/Broken-Bow--OK":{
+       "category":"old magic carpet",
+       "keywords":[
+          "broken bow cabins",
+          "broken bow cabin rentals",
+          "broken bow vacation cabins",
+          "broken arrow cabins",
+          "broken bow cabin lodging",
+          "airbnb cabin Broken Bow"
+       ]
+    },
+    "https://www.airbnb.com/s/Big-Bear-Lake--CA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "big bear cabins",
+          "big bear cabin rentals",
+          "bug bear cabins",
+          "affordable big bear cabins rentals",
+          "cabins for rent in big bear ca",
+          "cheap one bedroom cabin for rent in big bear",
+          "bear lake california cabin rentals",
+          "cheap big bear cabins",
+          "big bear lake deals",
+          "airbnb cabin big bear",
+          "cabins in big bear cheap",
+          "big bear cheap cabins for rent",
+          "big bear cabin rentals cheap",
+          "big bear lake cheap cabins",
+          "big bear lake cabins",
+          "cheap cabin rental in big bear",
+          "big bear cabin on lake"
+       ]
+    },
+    "https://www.airbnb.com/s/Orlando--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "houses to rent in orlando",
+          "orlando vacation rentals",
+          "rental homes orlando",
+          "2 bedroom houses for rent in orlando fl",
+          "3 bedroom houses for rent in orlando",
+          "homes for rent in orlando",
+          "houses for rent in orlando area",
+          "houses for rent in central florida",
+          "cheap houses for rent in orlando"
+       ]
+    },
+    "https://www.airbnb.com/s/Helen--GA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "cabins in helen ga",
+          "helen ga cabin rentals",
+          "helen ga rentals",
+          "a1 rentals helen ga",
+          "affordable cabins in helen ga",
+          "blue ridge cabin rentals helen ga",
+          "cheap cabin rentals in helen ga",
+          "helen ga cabin rentals pet friendly",
+          "north georgia cabin rentals helen",
+          "log cabins in helen ga"
+       ]
+    },
+    "https://www.airbnb.com/s/Myrtle-Beach--SC":{
+       "category":"old magic carpet",
+       "keywords":[
+          "myrtle beach condos",
+          "house rentals myrtle beach",
+          "myrtle beach vacation rentals",
+          "affordable myrtle beach condo rentals",
+          "cheap beachfront rentals myrtle beach",
+          "best condo rentals in myrtle beach",
+          "myrtle beach spring break house rentals",
+          "navigate to myrtle beach south carolina",
+          "cheap myrtle beach rentals",
+          "myrtle beach condo rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Ocean-City--MD":{
+       "category":"old magic carpet",
+       "keywords":[
+          "ocean city maryland rentals",
+          "ocean city maryland house rentals",
+          "ocean city maryland vacation rentals",
+          "ocean city md beach house rentals",
+          "cheap condos in ocean city md boardwalk",
+          "cheap ocean city rentals",
+          "cheap condos in ocean city md",
+          "ocean city md efficiency rentals",
+          "homes for rent in ocean city md",
+          "vacation home rentals ocean city md"
+       ]
+    },
+    "https://www.airbnb.com/s/Destin--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "destin florida vacation rentals",
+          "destin florida condos",
+          "destin florida condos for rent",
+          "scenic 98 destin fl rentals",
+          "villas in destin florida",
+          "ocean reef rentals",
+          "cheap beachfront rentals in florida",
+          "destin florida condo rentals",
+          "cheap condos in destin florida",
+          "ocean reef vacation rentals & real estate"
+       ]
+    },
+    "https://www.airbnb.com/s/Estes-Park--CO":{
+       "category":"old magic carpet",
+       "keywords":[
+          "estes park cabin",
+          "cabin rentals estes park",
+          "estes park lodging",
+          "estes park lodging on fall river",
+          "estes park colorado cabins",
+          "cabins on fall river estes park co",
+          "fall river condos estes park",
+          "evergreen estes park colorado",
+          "evergreens on fall river",
+          "fall river cabins for rent"
+       ]
+    },
+    "https://www.airbnb.com/s/Gulf-Shores--AL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "gulf shores condos",
+          "gulf shores vacation rentals",
+          "gulf shores condo rentals",
+          "beachfront condos in gulf shores al",
+          "oceanfront condos in gulf shores alabama",
+          "gulf shores beachfront condos",
+          "best condos in gulf shores",
+          "gulf coast condos",
+          "best condo pools in gulf shores",
+          "the shores beachfront condominium resort"
+       ]
+    },
+    "https://www.airbnb.com/s/Las-Vegas--NV":{
+       "category":"old magic carpet",
+       "keywords":[
+          "house rentals in las vegas",
+          "las vegas suites",
+          "penthouse suite las vegas",
+          "1024 m&s las vegas",
+          "homes for rent 89123",
+          "4 bedroom house for rent las vegas",
+          "houses for rent 89104",
+          "cheap houses for rent in las vegas",
+          "houses for rent in las vegas",
+          "home for rent las vegas"
+       ]
+    },
+    "https://www.airbnb.com/s/Seattle--WA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "rent houseboat seattle",
+          "seattle vacation rentals",
+          "seattle houseboat",
+          "airbnb seattle",
+          "seattle floating homes for rent",
+          "houseboat rental seattle",
+          "floating house seattle",
+          "houseboats",
+          "how much is a houseboat in seattle",
+          "houseboat rentals oregon",
+          "houseboats rentals seattle",
+          "houseboats seattle",
+          "vacation rentals in seattle",
+          "romantic seattle houseboats",
+          "vacation home rentals in seattle",
+          "vacation rentals seattle WA"
+       ]
+    },
+    "https://www.airbnb.com/s/Lake-George--NY":{
+       "category":"old magic carpet",
+       "keywords":[
+          "lake george cabins",
+          "cabin rentals lake george",
+          "lake george house rentals",
+          "lake george cabin rentals",
+          "lake george vacation cabins",
+          "cheap vacation rentals in lake george ny",
+          "cottage rentals lake george ny",
+          "lake george home rentals",
+          "lake george cabin rentals lakefront",
+          "cabin rentals lake george ny"
+       ]
+    },
+    "https://www.airbnb.com/s/Kissimmee--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "houses for rent kissimmee florida",
+          "kissimmee vacation rentals",
+          "house rental kissimmee",
+          "2 bedroom houses for rent in kissimmee fl",
+          "houses for rent in kissimmee fl 34741",
+          "houses for rent in kissimmee fl 34744",
+          "homes for rent in kissimmee fl 34746",
+          "casas de renta en kissimmee florida",
+          "cheap homes for rent in kissimmee",
+          "houses for rent in kissimmee fl"
+       ]
+    },
+    "https://www.airbnb.com/s/Galveston--TX":{
+       "category":"old magic carpet",
+       "keywords":[
+          "galveston beach house rentals",
+          "beach houses in galveston",
+          "galveston beach rentals",
+          "galveston beachfront house rentals",
+          "cabin rentals in galveston tx",
+          "cheap beach houses in galveston",
+          "galveston beach condo rentals",
+          "galveston condo rentals",
+          "condos for rent in galveston beach tx",
+          "cheap vacation rental homes in galveston tx"
+       ]
+    },
+    "https://www.airbnb.com/s/South-Padre-Island--TX":{
+       "category":"old magic carpet",
+       "keywords":[
+          "condos south padre island",
+          "south padre island rentals",
+          "south padre island beach house",
+          "affordable beach house vacation rentals south padre island tx",
+          "south padre island condo rentals",
+          "south padre island beachfront condos",
+          "cheap condos in south padre island",
+          "south padre island condos",
+          "south padre island rental homes",
+          "south padre island hotels and condos"
+       ]
+    },
+    "https://www.airbnb.com/s/Big-Sur--CA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "big sur lodging",
+          "big sur cabins",
+          "big sur glamping",
+          "big sur accommodation",
+          "best places to stay along big sur",
+          "places to stay in big sur ca",
+          "big sur bed and breakfast",
+          "places to stay in big sur",
+          "big sur california hotels",
+          "big sur hotels"
+       ]
+    },
+    "https://www.airbnb.com/s/Yellowstone-National-Park":{
+       "category":"old magic carpet",
+       "keywords":[
+          "yellowstone national park lodging",
+          "yellowstone accommodations",
+          "where to stay around yellowstone national park",
+          "best place to stay in yellowstone",
+          "yellowstone cabin",
+          "yellowstone cabin rentals",
+          "cabins for rent in yellowstone national park wy",
+          "hotels to stay in yellowstone national park"
+       ]
+    },
+    "https://www.airbnb.com/s/Miami--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "rent a house in miami",
+          "miami vacation rentals",
+          "rent miami condos",
+          "houses for rent in miami"
+       ]
+    },
+    "https://www.airbnb.com/s/San-Diego--CA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "san diego vacation rentals",
+          "san diego beach house rentals",
+          "rooms for rent san diego",
+          "vacation rentals san diego area",
+          "vacation rentals san diego ca",
+          "navigate to san diego california",
+          "cheap vacation rentals in san diego",
+          "vacation condos in san diego",
+          "holiday rentals in san diego california",
+          "san diego vacation home rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Key-West--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "key west vacations",
+          "key west house rentals",
+          "key west rentals",
+          "vacation in key west florida",
+          "cheap key west vacations",
+          "key west vacation deals",
+          "key west family vacation packages",
+          "vacation in key west fl",
+          "key west package",
+          "key west fl trip including flights"
+       ]
+    },
+    "https://www.airbnb.com/s/Lake-Arrowhead--CA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "lake arrowhead cabins",
+          "lake arrowhead resort",
+          "lake arrowhead cabin rentals",
+          "cabins for rent in lake arrowhead ca",
+          "lake arrowhead cabin rentals with hot tub",
+          "lake arrowhead cabin rentals lakefront",
+          "lake arrowhead monthly rentals",
+          "lake arrowhead vacation houses for rent",
+          "lake arrowhead rentals",
+          "lake arrowhead vacation cabins"
+       ]
+    },
+    "https://www.airbnb.com/s/Fort-Lauderdale--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "houses for rent fort lauderdale",
+          "fort lauderdale rentals",
+          "condo rentals fort lauderdale",
+          "cheap houses for rent in fort lauderdale",
+          "duplex for rent fort lauderdale"
+       ]
+    },
+    "https://www.airbnb.com/s/Boone--NC":{
+       "category":"old magic carpet",
+       "keywords":[
+          "cabins in boone nc",
+          "boone nc cabin rentals",
+          "vacation rentals boone nc",
+          "cheap cabins in boone nc",
+          "watauga county cabin rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Miami-Beach--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "miami villa rental",
+          "villa vandome miami",
+          "miami beach house rentals",
+          "miami beach villas",
+          "luxury villas miami",
+          "villas in miami florida",
+          "miami mansions for rent",
+          "miami villa rentals",
+          "rent a mansion in miami for a party",
+          "miami villas"
+       ]
+    },
+    "https://www.airbnb.com/s/Deep-Creek-Lake--MD":{
+       "category":"old magic carpet",
+       "keywords":[
+          "deep creek rentals",
+          "deep creek log cabin",
+          "deep creek lake cabin rentals",
+          "deep creek cabins",
+          "cheap cabin rentals in maryland",
+          "deep creek cottage rentals",
+          "houses for rent in deep creek md",
+          "deep creek lake cabin rentals pet friendly"
+       ]
+    },
+    "https://www.airbnb.com/s/Fredericksburg--TX":{
+       "category":"old magic carpet",
+       "keywords":[
+          "bed and breakfast fredericksburg tx",
+          "fredericksburg tx cabins",
+          "fredericksburg tx lodging",
+          "magnolia house bed & breakfast fredericksburg tx",
+          "best bed and breakfast in fredericksburg texas",
+          "bed and breakfast near fredericksburg tx"
+       ]
+    },
+    "https://www.airbnb.com/s/Folly-Beach--SC":{
+       "category":"old magic carpet",
+       "keywords":[
+          "folly beach rentals",
+          "folly beach vacation rentals",
+          "folly beach house rentals",
+          "1 night beach house rental",
+          "folly beach charleston area south carolina vacation rental",
+          "cheap vacation rentals near charleston sc",
+          "cheap folly beach rentals",
+          "folly beach vacation home rentals",
+          "folly beach houses",
+          "folly island rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Mountain--WI":{
+       "category":"old magic carpet",
+       "keywords":[
+          "cabin on a mountain",
+          "mountain cabin rentals",
+          "vacation mountain",
+          "appalachian mountains vacation spots",
+          "best mountain vacations",
+          "cabin trips",
+          "winter cabin rentals",
+          "winter vacation cabins",
+          "cheap cottage getaways",
+          "romantic mountain getaways east coast"
+       ]
+    },
+    "https://www.airbnb.com/s/Siesta-Key--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "siesta key rentals",
+          "siesta key condo rentals",
+          "house of sun siesta key",
+          "siesta key beach or bay rental",
+          "siesta key beach rentals",
+          "siesta key beachfront rentals",
+          "condos for rent siesta key fl",
+          "siesta key beach rentals daily",
+          "siesta key florida",
+          "siesta key vacation rentals gulf front"
+       ]
+    },
+    "https://www.airbnb.com/s/New-Braunfels--TX":{
+       "category":"old magic carpet",
+       "keywords":[
+          "new braunfels cabins",
+          "guadalupe river cabins",
+          "new braunfels cabins for rent",
+          "new braunfels cabin rentals",
+          "cheap cabins new braunfels tx",
+          "cottage rentals new braunfels tx",
+          "cabins in new braunfels tx",
+          "guadalupe river cabin rentals new braunfels",
+          "new braunfels river cabins",
+          "river road new braunfels cabins"
+       ]
+    },
+    "https://www.airbnb.com/s/Orange-Beach--AL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "condos to rent in orange beach alabama",
+          "orange beach vacation rentals",
+          "orange beach alabama rentals",
+          "orange beach 1 bedroom condo rentals",
+          "cheap condos in orange beach al",
+          "cheap beachfront condos in orange beach al",
+          "best deals on condos in orange beach al",
+          "cheap condos in orange beach",
+          "orange beach condo rentals",
+          "orange county alabama"
+       ]
+    },
+    "https://www.airbnb.com/s/Honolulu--HI":{
+       "category":"old magic carpet",
+       "keywords":[
+          "condos in honolulu for rent",
+          "honolulu rentals",
+          "honolulu vacation rentals",
+          "condos in honolulu hawaii",
+          "honolulu condo rentals",
+          "honolulu condominium rentals",
+          "hi condos for rent"
+       ]
+    },
+    "https://www.airbnb.com/s/Malibu--CA":{
+       "category":"old magic carpet",
+       "keywords":[
+          "malibu beach house",
+          "malibu vacation rentals",
+          "malibu houses for rent",
+          "malibu beachhouse",
+          "foray beach house"
+       ]
+    },
+    "https://www.airbnb.com/s/Breckenridge--CO":{
+       "category":"old magic carpet",
+       "keywords":[
+          "breckenridge colorado cabins",
+          "breckenridge lodging",
+          "breckenridge colorado condo rental",
+          "breckenridge log cabin rentals",
+          "cabin rentals near breckenridge co",
+          "log cabin rentals in breckenridge colorado"
+       ]
+    },
+    "https://www.airbnb.com/s/Daytona-Beach--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "daytona beach vacation rentals",
+          "daytona beach condo rentals",
+          "daytona beach condos",
+          "daytona beach holiday rentals",
+          "daytona bike week rentals",
+          "daytona beach condo rentals cheap",
+          "condos in daytona beach fl",
+          "vacation homes for rent in daytona beach fl",
+          "condos for rent in daytona florida",
+          "fun in the sun rentals daytona beach"
+       ]
+    },
+    "https://www.airbnb.com/s/North-Wildwood--NJ":{
+       "category":"old magic carpet",
+       "keywords":[
+          "wildwood nj condo rentals",
+          "north wildwood rentals",
+          "condos in wildwood nj",
+          "wildwood beach house rentals",
+          "wildwood condo rentals",
+          "houses for rent in wildwood nj",
+          "wildwood homes for rent",
+          "wildwood nj house rental",
+          "wildwood house rentals",
+          "wildwood new jersey rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Lake-Lure--NC":{
+       "category":"old magic carpet",
+       "keywords":[
+          "lake lure cabins",
+          "lake lure cabin rentals",
+          "lake lure rentals",
+          "carolina properties",
+          "lake lure cabins for rent",
+          "lake house rentals nc",
+          "lakefront vacation rentals in north carolina",
+          "lake lure vacation rentals",
+          "lake lure cabin rentals on the water",
+          "lake lure rentals waterfront"
+       ]
+    },
+    "https://www.airbnb.com/s/Lincoln-City--OR":{
+       "category":"old magic carpet",
+       "keywords":[
+          "lincoln city rentals",
+          "lincoln city house rentals",
+          "lincoln city oregon house rental",
+          "all seasons vacation rentals lincoln city",
+          "lincoln beach oregon",
+          "lincoln city beachfront rentals",
+          "cheap lincoln city beach rentals",
+          "oregon coast vacation rentals lincoln city",
+          "lincoln city condo rentals",
+          "lincoln city oregon rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Corpus-Christi--TX":{
+       "category":"old magic carpet",
+       "keywords":[
+          "corpus christi vacation rentals",
+          "corpus christi rental condos",
+          "corpus christi beach house rentals",
+          "corpus christi beachfront rentals",
+          "cabin rentals corpus christi",
+          "corpus christi cabins for rent",
+          "cheap condo rentals in corpus christi",
+          "corpus christi beach condo rentals",
+          "condos in corpus christi tx on the beach",
+          "corpus christi beach house"
+       ]
+    },
+    "https://www.airbnb.com/s/Lincoln--NE":{
+       "category":"old magic carpet",
+       "keywords":[
+          "log cabins in lincoln",
+          "cottages in lincoln",
+          "lincoln log cottage",
+          "lincoln log lake george",
+          "lincoln log house"
+       ]
+    },
+    "https://www.airbnb.com/s/Montauk--NY":{
+       "category":"old magic carpet",
+       "keywords":[
+          "montauk beach house",
+          "montauk rentals",
+          "montauk house rentals",
+          "ronjo motel montauk"
+       ]
+    },
+    "https://www.airbnb.com/s/St%2E-Petersburg--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "vacation rentals st petersburg fl",
+          "st pete clearwater vacation rentals",
+          "st petersburg condo rentals",
+          "st pete condos for rent",
+          "st petersburg florida vacation rentals",
+          "holiday rentals st petersburg florida",
+          "st pete vacation home rentals",
+          "st petersburg vacation rental homes"
+       ]
+    },
+    "https://www.airbnb.com/s/Puerto-Vallarta--Mexico":{
+       "category":"old magic carpet",
+       "keywords":[
+          "puerto vallarta vacation rentals",
+          "puerto vallarta rentals",
+          "puerto vallarta condo",
+          "apartments in puerto vallarta to rent",
+          "expedia puerto vallarta",
+          "houses for rent in puerto vallarta",
+          "rental properties in puerto vallarta mexico",
+          "vacation rentals puerto vallarta mx",
+          "vacation rentals in puerto vallarta by owner",
+          "vacation houses for rent in puerto vallarta"
+       ]
+    },
+    "https://www.airbnb.com/s/Dewey-Beach--DE":{
+       "category":"old magic carpet",
+       "keywords":[
+          "dewey beach rentals",
+          "dewey beach house rentals",
+          "dewey beach houses",
+          "dewey beach cabin rentals",
+          "dewey beach condo rentals",
+          "dewey beach delaware rentals",
+          "dewey beach oceanfront rentals",
+          "dewey beach vacation",
+          "dewey beach vacation rentals",
+          "dewey beach weekend rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Seaside-Heights--NJ":{
+       "category":"old magic carpet",
+       "keywords":[
+          "seaside heights rentals",
+          "seaside heights house rentals",
+          "seaside heights rentals under 25",
+          "seaside heights beach house",
+          "seaside heights rental houses",
+          "condos for rent in seaside heights nj",
+          "seaside nj rentals",
+          "houses for rent in seaside nj",
+          "seaside jersey shore rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Disney--OK":{
+       "category":"old magic carpet",
+       "keywords":[
+          "disney vacation homes",
+          "disney villas",
+          "disney rentals",
+          "disney area vacation homes",
+          "disney world house rentals",
+          "flipkey orlando",
+          "disney vacation rentals",
+          "orlando vacation rentals near disney",
+          "houses for rent near disney world",
+          "magical vacation homes orlando"
+       ]
+    },
+    "https://www.airbnb.com/s/Clearwater--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "clearwater houses for rent",
+          "2 bedroom houses for rent in clearwater fl",
+          "cheap houses for rent in clearwater fl",
+          "clearwater florida real estate rentals",
+          "houses for rent in clearwater fl",
+          "places to rent in clearwater florida",
+          "homes for rent in clearwater fl",
+          "housing in clearwater florida for rent"
+       ]
+    },
+    "https://www.airbnb.com/s/Panama-City--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "panama city rentals",
+          "affordable condos in panama city beach fl",
+          "panama city beach condo rentals",
+          "panama city beach condo rentals beachfront",
+          "condos for rent in panama city beach florida beachfront",
+          "panama city beach rentals by owner",
+          "condos in panama city beach fl",
+          "panama city beach condo rentals by owner"
+       ]
+    },
+    "https://www.airbnb.com/s/Rockport--TX":{
+       "category":"old magic carpet",
+       "keywords":[
+          "rockport texas vacation rental",
+          "rockport beach rentals",
+          "rockport beachfront rentals",
+          "rockport condo rentals",
+          "rockport texas condos for rent",
+          "vacation rentals in rockport tx",
+          "rockport beach rental homes",
+          "beach house rentals rockport tx"
+       ]
+    },
+    "https://www.airbnb.com/s/Tampa--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "tampa vacation rentals",
+          "condos in tampa fl",
+          "tampa area vacation home rentals",
+          "tampa bay vacation rentals",
+          "beach house rentals tampa fl",
+          "cheap vacation rentals in tampa florida",
+          "vacation condos for rent in tampa fl",
+          "vacation rentals tampa fl",
+          "vacation homes in tampa florida"
+       ]
+    },
+    "https://www.airbnb.com/s/Sarasota--FL":{
+       "category":"old magic carpet",
+       "keywords":[
+          "sarasota vacation rentals",
+          "vacation rentals in sarasota florida area",
+          "sarasota beach rentals",
+          "sarasota vacation rentals beachfront",
+          "sarasota condo rentals beachfront",
+          "sarasota cottage rentals",
+          "vacation rentals sarasota fl",
+          "sarasota florida rentals"
+       ]
+    },
+    "https://www.airbnb.com/s/Austin--TX":{
+       "category":"new magic carpet",
+       "keywords":[
+          "vacation rentals in austin",
+          "austin vacation rentals",
+          "austin vacation home rentals",
+          "vacation rentals austin tx"
+       ]
+    },
+    "https://www.airbnb.com/s/New-York--NY":{
+       "category":"new magic carpet",
+       "keywords":[
+          "vacation rentals in new york",
+          "vacation rentals in nyc",
+          "vacation home rentals in new york",
+          "vacation rentals new york ny"
+       ]
+    },
+    "https://www.airbnb.com/s/Los-Angeles--CA":{
+       "category":"new magic carpet",
+       "keywords":[
+          "vacation rentals in Los Angeles",
+          "vacation rentals in la",
+          "vacation home rentals in Los Angeles",
+          "vacation rentals los angeles ca"
+       ]
+    },
+    "https://www.airbnb.com/s/New-Orleans--LA":{
+       "category":"new magic carpet",
+       "keywords":[
+          "vacation rentals in New Orleans",
+          "vacation home rentals in New Orleans",
+          "vacation rentals new orleans la"
+       ]
+    },
+    "https://www.airbnb.com/s/Denver--CO":{
+       "category":"new magic carpet",
+       "keywords":[
+          "vacation rentals in Denver",
+          "vacation home rentals in Denver",
+          "vacation rentals denver co"
+       ]
+    },
+    "https://www.airbnb.com/s/Phoenix--AZ":{
+       "category":"new magic carpet",
+       "keywords":[
+          "vacation rentals in Phoenix",
+          "vacation home rentals in Phoenix",
+          "vacation rentals phoenix az"
+       ]
+    },
+    "https://www.airbnb.com/s/New-York--NY/things-to-do":{
+       "category":"TTD",
+       "keywords":[
+          "things to do in new york",
+          "things to do in nyc",
+          "fun things to do in new york",
+          "best things to do in new york"
+       ]
+    },
+    "https://www.airbnb.com/s/San-Francisco--CA/things-to-do":{
+       "category":"TTD",
+       "keywords":[
+          "things to do in San Francisco",
+          "fun things to do in San Francisco",
+          "best things to do in San Francisco"
+       ]
+    },
+    "https://www.airbnb.com/s/San-Diego--CA/things-to-do":{
+       "category":"TTD",
+       "keywords":[
+          "things to do in San Diego",
+          "fun things to do in San Diego",
+          "best things to do in San Diego"
+       ]
+    },
+    "https://www.airbnb.com/s/Nashville--TN/things-to-do":{
+       "category":"TTD",
+       "keywords":[
+          "things to do in Nashville",
+          "fun things to do in Nashville",
+          "best things to do in Nashville"
+       ]
+    },
+    "https://www.airbnb.com/s/Boston--MA/things-to-do":{
+       "category":"TTD",
+       "keywords":[
+          "things to do in Boston",
+          "fun things to do in Boston",
+          "best things to do in Boston"
+       ]
+    },
+    "https://www.airbnb.com/s/Pigeon-Forge--TN":{
+       "category":"Cabin",
+       "keywords":[
+          "airbnb cabin pigeon forge",
+          "pigeon forge cabin rentals"
+       ]
+    }
+ }
