@@ -1,6 +1,6 @@
 # bnb-tracking
-1. Each instance can handle 10 URLs per day, and each url contains 10 keywords.
-1. Number of instances depending on the URLs we are going to track.
+1. Each instance can handle 30 KWs per day.
+1. Number of instances depending on the total number of keywords we are going to track.
 1. Instances will be started and stopped controlled by lambda functions.
 1. Logs will be accessed through:
    1. https://backup-gethypeapp-com.s3-ap-northeast-1.amazonaws.com/seo_ranking/20200327/output.txt
@@ -24,4 +24,4 @@
 1. stop the instance
 
 
-## to update the capacity, use the file capacity.json
+## to update the keywords capacity, use the file capacity.json
