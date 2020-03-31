@@ -775,5 +775,87 @@
           "airbnb cabin pigeon forge",
           "pigeon forge cabin rentals"
        ]
+    },
+    "https://www.airbnb.com/d/new-york--ny-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "cheap rooms nyc",
+          "hotels near new york city",
+          "central new york hotel deals",
+          "find hotels in nyc",
+          "google hotels nyc",
+          "hotel rooms in manhattan ny",
+          "hotels in new york",
+          "new york hotels"
+       ]
+    },
+    "https://www.airbnb.com/d/paris--france-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "best hotels to stay in paris",
+          "paris hotel booking",
+          "paris hotel booking cheap",
+          "google hotels paris",
+          "places to stay in paris",
+          "paris hotel prices",
+          "paris hotels",
+          "hotels in paris"
+       ]
+    },
+    "https://www.airbnb.com/d/clearwater--fl-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "trivago clearwater beach",
+          "hoteles en clearwater florida",
+          "trivago clearwater fl",
+          "trivago st petersburg fl",
+          "clearwater hotels"
+       ]
+    },
+    "https://www.airbnb.com/d/avila-beach--ca-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "avila 1",
+          "avila beach hotels",
+          "avila beach ca hotels",
+          "avila beach inn resort",
+          "avila beach lodging",
+          "places to stay in avila beach",
+          "avila hotels"
+       ]
+    },
+    "https://www.airbnb.com/d/destin--fl-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "destin florida hotels on the beach",
+          "beachfront hotels in destin florida",
+          "cheap beachfront hotels in destin florida",
+          "beachfront hotels and condos in destin florida",
+          "oceanfront hotels in destin fl",
+          "motels in destin fl beachfront",
+          "destin hotels",
+          "hotels in destin"
+       ]
+    },
+    "https://www.airbnb.com/d/seaside--oregon-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "cheap hotels in seaside oregon on the beach",
+          "cheap hotels in seaside oregon",
+          "seaside hotel deals",
+          "cheap motels in seaside oregon",
+          "seaside oregon hotels"
+       ]
+    },
+    "https://www.airbnb.com/d/fire-island--ny-hotels":{
+       "category":"Hotels",
+       "keywords":[
+          "margarita villas kismet",
+          "where to stay in fire island ny",
+          "seasons bed and breakfast ocean beach",
+          "places to stay on fire island",
+          "fire island resorts",
+          "where to stay on fire island"
+       ]
     }
  }
